@@ -5,6 +5,7 @@ MAINTAINER ZanyXDev "zanyxdev@gmail.com"
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBCONF_NONINTERACTIVE_SEEN true
 
+
 LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.vcs-url="https://github.com/ZanyXDev/dev-java-base.git" \
       org.label-schema.vcs-ref=$VCS_REF \
