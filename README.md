@@ -12,3 +12,5 @@ Download and install  [Java Cryptography Extension](http://download.oracle.com/o
 
 [![Circle CI](https://circleci.com/gh/ZanyXDev/dev-java-base.svg?style=svg)](https://circleci.com/gh/zanyxdev/dev-java-base)
 
+[![](https://images.microbadger.com/badges/image/zanyxdev/dev-java-base.svg)](https://microbadger.com/images/zanyxdev/dev-java-base "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/zanyxdev/dev-java-base.svg)](https://microbadger.com/images/zanyxdev/dev-java-base "Get your own version badge on microbadger.com")
