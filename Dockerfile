@@ -45,14 +45,7 @@ RUN mkdir -p /home/developer && \
     chmod 0440 /etc/sudoers.d/developer && \
     chown -R developer:developer /home/developer
 
-VOLUME /home/developer
-
-# Set things up using the dev user and reduce the need for `chown`s
-USER developer    
-
 ENV JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
-ENV HOME /home/developer
-
 
 #set Russian locale
 ENV LC_ALL ru_RU.UTF-8 
