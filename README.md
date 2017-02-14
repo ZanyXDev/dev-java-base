@@ -4,7 +4,7 @@ Base image from Ubuntu 16.04 owner root
     add repository ppa:openjdk-r/ppa
 
     install openjdk-8 
-	    curl, unzip, sudo
+	    curl, unzip, sudo , git
     dpkg-reconfigure locales (ru_RU.UTF-8)
 
 

@@ -24,6 +24,7 @@ RUN dpkg --add-architecture i386 && \
     ca-certificates-java \
     sudo \
     curl \
+    git \
     unzip && \
     locale-gen ru_RU ru_RU.UTF-8 && \
     dpkg-reconfigure locales && \
